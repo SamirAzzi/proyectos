@@ -1,0 +1,4 @@
+git bash 
+
+comandos 
+cd,ls, code . , code ..
